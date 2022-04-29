@@ -1,0 +1,12 @@
+.image{
+    height: 200px;
+    width: 100%;
+    background: #abc;
+}
+.imager{
+    height: 200px;
+    width: 90%;
+    background: #abc;}
+   .mt-3{
+    padding-top: 10%;
+}
